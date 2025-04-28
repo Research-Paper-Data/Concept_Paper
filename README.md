@@ -5,4 +5,4 @@ In this repository, you will find:
 - The R scripts used for data analysis and visualization.
 - The original datasets used in the analysis.
 - The outputs and analysis 
-- The files (bio_vis, con_vis, and nat_vis) used for generating the interacive maps.
+- The files (bio_vis, con_vis, and nat_vis) used for generating the interacive maps (https://Research-Paper-Data.github.io/Interactive_Maps/).
